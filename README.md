@@ -1,9 +1,10 @@
 # F8_Learn_Basic
 F8_Learn_Basic
 
+git add .
+git commit -m "second-commot"
 git remote add origin https://github.com/LocNguyen12/F8_HTML_CSS_LearnBasic.git
-git branch -M main
-git push -u origin main
+git push -u origin master
 
 Học HTML,CSS cơ bản tại fullstack.edu.vn
 
