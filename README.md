@@ -3,7 +3,7 @@ F8_Learn_Basic
 
 git add .
 
-git commit -m "second-commot"
+git commit -m "noi dung commit"
 
 git remote add origin https://github.com/LocNguyen12/F8_HTML_CSS_LearnBasic.git
 
